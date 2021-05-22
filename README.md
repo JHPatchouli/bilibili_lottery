@@ -1,10 +1,17 @@
-# bilibili_lottery
+# bilibili_lottery （重制中）
+预计更新内容
+  1、针对b站更新的”BV号“
+  2、对脚本进行封装
+  3、自动检查和安装依赖
+
+
+## 项目说明
 
 B站UP主抽奖脚本，从评论+关注和仅评论的用户中抽取若干名幸运观众（带启动脚本）
 
 ## 使用说明
 
-该项目原项目地址[https://github.com/Magician-T/bilibili_lottery](https://github.com/Magician-T/bilibili_lottery)
+该项目基于项目[https://github.com/Magician-T/bilibili_lottery](https://github.com/Magician-T/bilibili_lottery)
 
 ### 修改项目中加入了启动脚本可直接使用，安装好python环境后，和获取cookies后（如何获取B站cookies自行百度）可直接使用启动脚本免去以下步骤
 
