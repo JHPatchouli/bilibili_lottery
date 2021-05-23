@@ -1,8 +1,0 @@
-这套py脚本来源是https://github.com/Magician-T/bilibili_lottery
-我是bat启动脚本的作者https://github.com/JHPatchouli
-请确认已经正确安装python环境
-以及安装依赖requirements
-如果未安装，可在启动脚本中选择安装，如出现错误请尝试手动安装
-cookies.txt文件可自行创建并将cookie复制进去或者在启动脚本中输入
-关于b站用户cookie如何获取详情百度
-不要管理员启动！！！！！！！！！！！

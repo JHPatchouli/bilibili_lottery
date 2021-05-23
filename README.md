@@ -1,27 +1,49 @@
-# bilibili_lottery （重制中）
-预计更新内容
+# bilibili_lottery  --startMod
+更新内容
 
   1、针对b站更新的”BV号“
-  
+
   2、对脚本进行封装
-  
+
   3、自动检查和安装依赖
+
+[TOC]
 
 
 ## 项目说明
 
-B站UP主抽奖脚本，从评论+关注和仅评论的用户中抽取若干名幸运观众（带启动脚本）
+B站UP主抽奖脚本，从评论+关注和仅评论的用户中抽取若干名幸运观众（重制版）
+
+该项目基于项目[https://github.com/Magician-T/bilibili_lottery](https://github.com/Magician-T/bilibili_lottery)的旧项目，编写了便携脚本，源项目已更新弹幕获奖概率，后续会跟进适配
+
+
 
 ## 使用说明
 
-该项目基于项目[https://github.com/Magician-T/bilibili_lottery](https://github.com/Magician-T/bilibili_lottery)
+#### 一、请检查python环境和pip 管理器
 
-### 修改项目中加入了启动脚本可直接使用，安装好python环境后，和获取cookies后（如何获取B站cookies自行百度）可直接使用启动脚本免去以下步骤
+脚本内置检查，请确保你在`cmd`中能使用以下命令，以通过脚本测试
+
+```
+python --version
+pip --version
+```
+
+#### 二、requests模块安装(必要)
+
+脚本内置安装，可以选择国内的安装源
+
+清华镜像|中科大镜像|豆瓣镜像|阿里镜像|华中科大镜像|山东理工大学镜像|搜狐镜像|
+
+#### 三、如何获取cookies
+
+登录后在个人主页按`F12`，在开发者控制台中选择`Network`选项，然后刷新页面，找到带有UPID的请求，在右侧的`Headers`(请求头)中下滑看到`cookie`参数，冒号后的值就是cookie
+
+![cookies](https://i0.hdslb.com/bfs/album/2c9fb8048c075530263b49205b0e1608b09ef85a.png)
 
 
 
-
-## 下面为项目原使用说明
+## 以下为项目原使用说明
 
 
 
