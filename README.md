@@ -17,6 +17,8 @@ B站UP主抽奖脚本，从评论+关注和仅评论的用户中抽取若干名�
 该项目基于项目[https://github.com/Magician-T/bilibili_lottery](https://github.com/Magician-T/bilibili_lottery)的旧项目，编写了便携脚本，源项目已更新弹幕获奖概率，后续会跟进适配
 
 
+封装版[下载地址](https://github.com/JHPatchouli/bilibili_lottery/releases/tag/Bilibili_lotteryMod)
+
 
 ## 使用说明
 
